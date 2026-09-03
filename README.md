@@ -67,5 +67,3 @@ The full list of 80 COCO class IDs is available in the [Ultralytics documentatio
 
 MIT
 
-#Run the project:http://localhost:5000
-
